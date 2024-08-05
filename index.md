@@ -1,4 +1,4 @@
-<div style="background-image: url('steamuserimages-a.akamaihd.jpg);">
+<div style="background-image: url('/steamuserimages-a.akamaihd.jpg);">
 </div>
 
 ## Yuur1Fly的各种主页链接
