@@ -20,7 +20,7 @@
 ![1](/photo/BA0EEE5ED9375BEC6F9D9B371954FC3E.jpg)
 ![1](/photo/EE9575A2AA9827F31361EE58C513ABBB.png)
 ![1](/photo/F06D93466417C8200FD2D21F7803FE08.png)
-![1](/photo/Nearl The Radiant Knight.jpg)
+![1](/photo/NearlTheRadiantKnight.jpg)
 ![1](/photo/af2364010713f39cf2dcc8fa31fe8406161775300.png)
 ![1](/photo/c0060a8fcaf03c814efbda602e41f67e161775300.png)
 ![1](/photo/c2e0b21741f339170ce78794df6a8d0.png)
@@ -44,7 +44,7 @@
 
 ![1](/photo/【遗君】「2024音律联觉-不觅浪尘」.jpg) 
 
-![1](/photo/miku.jpg) 
+![1](/photo/miku.png) 
 
 ![1](/photo/miku2.jpg) 
 
@@ -52,6 +52,4 @@
 
 ![1](/photo/kyoko.jpg) 
 
-![1](/photo/kyoko2.jpg) 
-
-![1](/photo/) 
+![1](/photo/kyouko2.jpg) 
