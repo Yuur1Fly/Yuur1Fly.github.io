@@ -1,4 +1,4 @@
-<body style="background-image: url('steamuserimages-a.akamaihd.jpg')">
+<div style="background-image: url('steamuserimages-a.akamaihd.jpg);">
 
 ## Yuur1Fly的各种主页链接
 ![224](/steamuserimages-a.akamaihd.jpg)
@@ -7,4 +7,4 @@
 ## 截图库
 [Yuur1Fly精选图库](photo.md)
 
-</body>
+</div>
